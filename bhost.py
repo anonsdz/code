@@ -6,7 +6,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 from html import escape
 import pytz
 
-TOKEN = '7738271168:AAFp_qu8lS62L8ofSkCQm1YBaSYWXsnn5jg'
+TOKEN = '7738271168:AAHQh1wCqHignG7nNDSfxhqQUmcrhOP6xWo'
 
 # Danh sách các ID của admin
 ADMIN_IDS = [7371969470, 7137219919]  # Thêm các ID admin vào danh sách này
