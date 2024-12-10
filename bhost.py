@@ -14,7 +14,7 @@ ADMIN_IDS = [7371969470, 7137219919]  # Thêm các ID admin vào danh sách này
 
 
 # Danh sách các GROUP_ID mà bot được phép hoạt động
-GROUP_IDS = [-1002200204153, -1002494586692]  # Thêm các GROUP_ID vào danh sách này
+GROUP_IDS = [-1002200204153, -1002447120255]  # Thêm các GROUP_ID vào danh sách này
 
 user_processes = {}
 bot_active = True  # Biến kiểm tra trạng thái bot
